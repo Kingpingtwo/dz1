@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+}
+
+.menu{
+    background-color: black;
+
+}
+
+.link{
+    display: inline-block;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    text-decoration: none;
+    font-family: Jura;
+}
+
+.link:hover{
+    background-color: white;
+    color: black;
+}
+
+.too{
+    background-color: black;
+}
+
+.ooo{
+    display: flex;
+    color: white;
+    padding: 15px 30px 15px 30px;
+    text-decoration: none;
+    font-family: Comfortaa;
+}
+
+.ooo:hover{
+background-color: white;
+color: black;
+}
+
+.o{
+    width: 200px;
+}
